@@ -1,0 +1,14 @@
+/* 
+	Nama Manusia : Ivandohan. 
+	Masalah gk ngerti
+*/
+
+
+#include <stdio.h>
+
+int main()
+{
+	printf("Hello World");
+	return 0;
+	
+}
